@@ -1,3 +1,3 @@
-# ermako.github.io
+# erickoegler.com
 
 website
